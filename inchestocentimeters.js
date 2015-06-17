@@ -1,5 +1,3 @@
-// inchestocentimeters.js v1.0.1
-
 (function() {
 
   'use strict';

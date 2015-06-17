@@ -1,7 +1,7 @@
 {
-  "name": "inchestocentimeters",
+  "name": "inches-to-centimeters",
   "title": "inchestocentimeters.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Converts inches to centimeters",
   "devDependencies": {
     "jasmine": "latest"
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "inches to centimeters",
+    "inches-to-centimeters",
     "inchestocentimeters",
     "inchestocentimeters.js",
     "inch to centimeter",
