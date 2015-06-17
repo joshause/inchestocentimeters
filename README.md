@@ -13,7 +13,7 @@ JavaScript conversion of inches to centimeters.
 var InchesToCentimeters = require("./inchestocentimeters");
 var itc = new InchesToCentimeters();
 itc.get(1);
-// => 0.393700787402
+// => 2.539999999997257
 ```
 
 ### Browser
@@ -24,7 +24,7 @@ itc.get(1);
 // InchesToCentimeters is autoloaded to window.InchesToCentimeters
 var itc = new InchesToCentimeters();
 itc.get(1);
-// => 0.393700787402
+// => 2.539999999997257
 ```
 
 ## Tests

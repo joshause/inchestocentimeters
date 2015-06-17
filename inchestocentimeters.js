@@ -10,7 +10,7 @@
     if(typeof x !== "number") {
       return 'invalid input';
     } else {
-      return x * 0.393700787402;
+      return x / 0.393700787402;
     }
   };
 

@@ -16,8 +16,7 @@
 
         var itc = new InchesToCentimeters();
         var input = 1;
-        var output = 0.393700787402;
-
+        var output = 2.539999999997257;
         expect(
           itc.get(input)
         ).toEqual(
