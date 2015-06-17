@@ -2,7 +2,7 @@
 
 JavaScript conversion of inches to centimeters.
 
-[![Build Status](https://travis-ci.org/joshause/simplemovingaverage.svg?branch=master)](https://travis-ci.org/joshause/simplemovingaverage)
+[![Build Status](https://travis-ci.org/joshause/inchestocentimeters.svg?branch=master)](https://travis-ci.org/joshause/inchestocentimeters)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 ## Usage
