@@ -1,0 +1,33 @@
+{
+  "name": "inchestocentimeters.js",
+  "title": "inchestocentimeters.js",
+  "version": "1.0.0",
+  "description": "Converts inches to centimeters",
+  "devDependencies": {
+    "jasmine": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshause/inchestocentimeters.js.git"
+  },
+  "keywords": [
+    "inches to centimeters",
+    "inchestocentimeters",
+    "inchestocentimeters.js",
+    "joshause"
+  ],
+  "author": "Josh Ause",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "jasmine tests/*.js"
+  },
+  "licenses": [{
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }],
+  "bugs": {
+    "url": "https://github.com/joshause/inchestocentimeters.js/issues"
+  }
+}
