@@ -29,8 +29,10 @@ itc.get(1);
 
 ## Tests
 
+Jasmine
+
 ```bash
-$ jasmine
+$ npm test
 ```
 
 ## License
