@@ -1,15 +1,13 @@
 {
   "name": "inches-to-centimeters",
   "title": "inchestocentimeters.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
+  "main": "inchestocentimeters.js",
   "description": "Converts inches to centimeters",
   "devDependencies": {
     "jasmine": "latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/joshause/inchestocentimeters.js.git"
-  },
+  "repository": "joshause/inchestocentimeters",
   "keywords": [
     "inches to centimeters",
     "inches-to-centimeters",
@@ -25,11 +23,8 @@
   "scripts": {
     "test": "jasmine tests/*.js"
   },
-  "licenses": [{
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/MIT"
-        }],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshause/inchestocentimeters.js/issues"
+    "url": "https://github.com/joshause/inchestocentimeters/issues"
   }
 }

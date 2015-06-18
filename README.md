@@ -10,7 +10,7 @@ JavaScript conversion of inches to centimeters.
 ### Node.js
 
 ```js
-var InchesToCentimeters = require("./inchestocentimeters");
+var InchesToCentimeters = require("inchestocentimeters");
 var itc = new InchesToCentimeters();
 itc.get(1);
 // => 2.539999999997257
