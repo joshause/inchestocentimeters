@@ -5,6 +5,12 @@ JavaScript conversion of inches to centimeters.
 [![Build Status](https://travis-ci.org/joshause/inchestocentimeters.svg?branch=master)](https://travis-ci.org/joshause/inchestocentimeters)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
+## Install
+
+```
+$ npm install inches-to-centimeters
+```
+
 ## Usage
 
 ### Node.js
