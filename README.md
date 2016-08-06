@@ -4,8 +4,8 @@ JavaScript conversion of inches to centimeters.
 
 [![Build Status](https://travis-ci.org/joshause/inchestocentimeters.svg?branch=master)](https://travis-ci.org/joshause/inchestocentimeters)
 [![Codacy](https://api.codacy.com/project/badge/grade/5830a3190dd848b0a23ecc1dc31394a2)](https://www.codacy.com/app/joshua-ause/inchestocentimeters)
-[![npm](https://img.shields.io/npm/v/centimeters-to-inches.svg)](https://www.npmjs.com/package/inches-to-centimeters)
-[![npm](https://img.shields.io/npm/dm/centimeters-to-inches.svg)](https://www.npmjs.com/package/inches-to-centimeters)
+[![npm](https://img.shields.io/npm/v/inches-to-centimeters.svg)](https://www.npmjs.com/package/inches-to-centimeters)
+[![npm](https://img.shields.io/npm/dm/inches-to-centimeters.svg)](https://www.npmjs.com/package/inches-to-centimeters)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 ## Install
