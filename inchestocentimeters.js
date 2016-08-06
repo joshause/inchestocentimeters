@@ -22,4 +22,4 @@
     window.InchesToCentimeters = InchesToCentimeters;
   }
 
-})();
+}());
