@@ -1,18 +1,18 @@
 (function() {
 
-  'use strict';
+  "use strict";
 
-  var InchesToCentimeters = require('../inchestocentimeters.js');
+  var InchesToCentimeters = require("../inchestocentimeters.js");
 
-  describe('inchestocentimeters.js', function() {
+  describe("inchestocentimeters.js", function() {
 
-    it('is a thing', function() {
+    it("is a thing", function() {
       expect(InchesToCentimeters).toBeDefined();
     });
 
-    describe('.get()', function() {
+    describe(".get()", function() {
 
-      it('returns number of centimeters for number of inches given', function() {
+      it("returns number of centimeters for number of inches given", function() {
 
         var itc = new InchesToCentimeters();
         var input = 1;
